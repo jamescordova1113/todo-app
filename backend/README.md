@@ -5,12 +5,12 @@ $ yarn install
 ```
 
 ## Setting Up PostgreSQL 
-# Create a User
+### Create a User
 ```bash
 $ User: pgadmin
 $ Password: password
 ```
-# Setup a Database
+### Setup a Database
 ```bash
 $ DB: pgtodoapp
 ```
